@@ -1,5 +1,7 @@
-print("Hello world")
-print("Hello everybody")
-print("Hello Galaxy")
-print("Hello")
-print("Hello,hello hello")
+<<<<<<< HEAD
+print("Hello world;")
+print("Hello everybody;")
+print("Hello Galaxy;")
+print("Hello;")
+print("Hello,hello hello;")
+
